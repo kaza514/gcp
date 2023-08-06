@@ -4,6 +4,10 @@ $ ssh-keygen -t rsa -b 4096 -C fandodevuser
 
 
 
+How to Login SSH
+
+$ ssh -i dev fandodevuser@XX.XX.XX.XX
+
 
 Logging into gcp sql Cloud 
 
