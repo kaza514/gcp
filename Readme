@@ -1,0 +1,4 @@
+Create SSH key and add pub file into metatdata
+
+# ssh-keygen -t rsa -b 4096 -C fandodevuser
+
