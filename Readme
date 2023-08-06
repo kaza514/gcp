@@ -1,4 +1,10 @@
 Create SSH key and add pub file into metatdata
 
-# ssh-keygen -t rsa -b 4096 -C fandodevuser
+$ ssh-keygen -t rsa -b 4096 -C fandodevuser
 
+
+
+
+Logging into gcp sql Cloud 
+
+$ gcloud sql connect learnwebcoading1 --user=admin --quiet
